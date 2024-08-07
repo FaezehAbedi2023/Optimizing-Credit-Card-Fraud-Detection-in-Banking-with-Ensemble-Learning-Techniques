@@ -67,7 +67,18 @@ Originating from the expansive domain of Recurrent Neural Networks (RNNs), Long 
 The combined model, melding the attributes of Long Short-Term Memory (LSTM) and Convolutional Neural Network (CNN), presents a refined strategy for deciphering sequential data embedded with spatial intricacies. By leveraging the salient features of both LSTM and CNN architectures, this amalgamation paves the way for a more nuanced and comprehensive analysis, especially crucial in the domain of transactional data analysis in the banking sector.
 
 
+𝐄𝐕𝐀𝐋𝐔𝐀𝐓𝐈𝐎𝐍 𝐌𝐄𝐓𝐑𝐈𝐂𝐒
 
+Assessing the performance of a model, especially in classification endeavors, requires a comprehensive suite of metrics that can effectively encapsulate the subtleties and complexities of the output. In this research, four key metrics were employed: Accuracy, Precision, Recall, and F1-Score. Each metric provides a unique perspective on the model's predictive capabilities, facilitating a well-rounded evaluation.
+
+
+![1](https://github.com/user-attachments/assets/2ab706e1-9ecc-42ea-ad82-65ddc3abaa19)
+
+
+![2](https://github.com/user-attachments/assets/aae5a74c-403c-47ce-8a10-59c137e5b8af)
+
+
+![3](https://github.com/user-attachments/assets/46c770d0-5896-45d9-9f66-b2a448769d19)
 
 
 
