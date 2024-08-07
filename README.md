@@ -123,6 +123,108 @@ Ensemble learning, combining multiple fraud detection methods, proves effective 
 
 In conclusion, the integration of advanced machine learning and deep learning techniques, coupled with strategic hyperparameter tuning, offers a promising avenue for enhancing credit card fraud detection. The findings emphasize the importance of adaptability, precision, and a holistic approach, particularly in addressing the dynamic landscape of financial fraud.
 
+## REFERENCES
+
+Afriyie, J. K., Tawiah, K., Pels, W. A., Addai-Henne, S., Dwamena, H. A., Owiredu, E. O., Ayeh, S. A., & Eshun, J. (2023). A supervised machine learning algorithm for detecting and predicting fraud in credit card transactions. Decision Analytics Journal, 6, 100163. https://doi.org/10.1016/j.dajour.2023.100163
+
+Altaher, A., & Malebary, S. J. (2020). An intelligent approach to credit card fraud detection using an optimized light gradient boosting machine. IEEE Access, 8, 25579–25587. https://doi.org/10.1109/access.2020.2971354
+
+Aman. (2021). Credit Card Fraud Detection using Machine Learning and Data Science. International Journal for Research in Applied Science and Engineering Technology, 9(VII), 3788–3792. https://doi.org/10.22214/ijraset.2021.37200
+
+Arya, A., Sehgal, M., Bhatia, N., Juneja, S., & Koundal, D. (2023). Heart disease prediction with machine learning and virtual reality. In Elsevier eBooks (pp. 209–228). https://doi.org/10.1016/b978-0-323-98381-5.00011-8
+
+Assessing the feasibility of machine learning-based modelling and prediction of credit fraud outcomes using hyperparameter tuning. (2023). Advances in Computer, Signals and Systems, 7(2). https://doi.org/10.23977/acss.2023.070212
+
+Awoyemi, J. O., Adetunmbi, A. O., & Oluwadare, S. A. (2017). Credit card fraud detection using machine learning techniques: A comparative analysis. 2017 International Conference on Computing Networking and Informatics (ICCNI). https://doi.org/10.1109/iccni.2017.8123782
+
+Ayyadevara, V. K. (2018). Decision tree. In Apress eBooks (pp. 71–103). https://doi.org/10.1007/978-1-4842-3564-5_4
+
+Bodepudi, H. (2021). Credit card fraud detection using unsupervised machine learning algorithms. International Journal of Computer Trends and Technology, 69(8), 1–3. https://doi.org/10.14445/22312803/ijctt-v69i8p101
+
+Boutaher, N., Elomri, A., Abghour, N., Moussaid, K., & Rida, M. (2020). A Review of Credit Card Fraud Detection Using Machine Learning Techniques. INTERNATIONAL JOURNAL OF SCIENTIFIC & TECHNOLOGY RESEARCH VOLUME 8, ISSUE 10, OCTOBER 2019. https://doi.org/10.1109/cloudtech49835.2020.9365916
+
+Btoush, E. a. L. M., Zhou, X., Gururajan, R., Chan, K. C., Genrich, R., & Sankaran, P. (2023). A systematic review of literature on credit card cyber fraud detection using machine and deep learning. PeerJ, 9, e1278. https://doi.org/10.7717/peerj-cs.1278
+
+Cherif, A., Badhib, A., Ammar, H., Alshehri, S., Kalkatawi, M., & Imine, A. (2023). Credit card fraud detection in the era of disruptive technologies: A systematic review. Journal of King Saud University - Computer and Information Sciences, 35(1), 145–174. https://doi.org/10.1016/j.jksuci.2022.11.008
+
+Cynthia, P. C., & George, S. T. (2020). An Outlier Detection Approach on Credit card Fraud Detection Using Machine Learning: A Comparative Analysis on Supervised and Unsupervised learning. In Advances in intelligent systems and computing (pp. 125–135). https://doi.org/10.1007/978-981-15-5285-4_12
+
+Dalal, S., Seth, B., Rădulescu, M., Secară, C. G., & Tolea, C. (2022). Predicting Fraud in Financial Payment Services through Optimized Hyper-Parameter-Tuned XGBoost Model. Mathematics, 10(24), 4679. https://doi.org/10.3390/math10244679
+
+Deep, A. (2021, December 15). Introduction to Deep Neural Networks with layers Architecture Step by Step with Real Time Use cases. Medium. https://medium.com/analytics-vidhya/introduction-to-deep-neural-networks-with-layers-architecture-step-by-step-with-real-time-use-cases-ef544580687b
+
+Dornadula, V. N., & Geetha, S. (2019). Credit Card Fraud Detection using Machine Learning Algorithms. Procedia Computer Science, 165, 631–641. https://doi.org/10.1016/j.procs.2020.01.057
+
+El-Naby, A. A., Hemdan, E. E., & Elsayed, A. M. (2022). An efficient fraud detection framework with credit card imbalanced data in financial services. Multimedia Tools and Applications, 82(3), 4139–4160. https://doi.org/10.1007/s11042-022-13434-6
+
+Fiore, U., De Santis, A., Perla, F., Zanetti, P., & Palmieri, F. (2019). Using generative adversarial networks for improving classification effectiveness in credit card fraud detection. Information Sciences, 479, 448–455. https://doi.org/10.1016/j.ins.2017.12.030
+
+Forough, J., & Momtazi, S. (2021). Ensemble of deep sequential models for credit card fraud detection. Applied Soft Computing, 99, 106883. https://doi.org/10.1016/j.asoc.2020.106883
+
+Ghaleb, F. A., Saeed, F., Al-Sarem, M., Qasem, S. N., & Al-Hadhrami, T. (2023). Ensemble Synthesized Minority Oversampling based Generative Adversarial Networks and Random Forest Algorithm for Credit Card Fraud Detection. IEEE Access, 1. https://doi.org/10.1109/access.2023.3306621
+
+Gupta, P., Varshney, A., Khan, M. R., Ahmed, R., Shuaib, M., & Alam, S. (2023). Unbalanced Credit Card Fraud Detection Data: A Machine Learning-Oriented Comparative Study of Balancing Techniques. Procedia Computer Science, 218, 2575–2584. https://doi.org/10.1016/j.procs.2023.01.231
+
+Jain, R., Gour, B., & Dubey, S. (2016). A Hybrid Approach for Credit Card Fraud Detection using Rough Set and Decision Tree Technique. International Journal of Computer Applications, 139(10), 1–6. https://doi.org/10.5120/ijca2016909325
+
+Jiang, S., Dong, R., Wang, J., & Xia, M. (2023). Credit card fraud detection based on unsupervised attentional anomaly Detection network. Systems, 11(6), 305. https://doi.org/10.3390/systems11060305
+
+Khan, S., Alourani, A., Mishra, B., Ashraf, A., & Kamal, M. (2022). Developing a Credit Card Fraud Detection Model using Machine Learning Approaches. International Journal of Advanced Computer Science and Applications, 13(3). https://doi.org/10.14569/ijacsa.2022.0130350
+
+Khatri, S., Arora, A., & Agrawal, A. P. (2020). Supervised Machine Learning Algorithms for Credit Card Fraud Detection: A Comparison. 2020 10th International Conference on Cloud Computing, Data Science & Engineering (Confluence). https://doi.org/10.1109/confluence47617.2020.9057851
+
+Kim, E., Lee, J., Shin, H., Yang, H., Cho, S., Nam, S., Song, Y., Yoon, J., & Kim, J. (2019). Champion-challenger analysis for credit card fraud detection: Hybrid ensemble and deep learning. Expert Systems With Applications, 128, 214–224. https://doi.org/10.1016/j.eswa.2019.03.042
+
+Kumar, A., & Dwivedi, R. K. (2020). Fraud Detection in Credit Card Data using Unsupervised Machine Learning Based Scheme. 2020 International Conference on Electronics and Sustainable Communication Systems (ICESC). https://doi.org/10.1109/icesc48915.2020.9155615
+
+Long Short-Term Memory Networks (LSTM)- simply explained! | Data Basecamp. (2022, June 4). Data Basecamp. https://databasecamp.de/en/ml/lstms
+Makki, S., Assaghir, Z., Taher, Y., Haque, R., Hacid, M., & Zeineddine, H. (2019). An experimental study with imbalanced classification approaches for credit card fraud detection. IEEE Access, 7, 93010–93022. https://doi.org/10.1109/access.2019.2927266
+
+Mienye, I. D., & Sun, Y. (2023). A deep learning ensemble with data resampling for credit card fraud detection. IEEE Access, 11, 30628–30638. https://doi.org/10.1109/access.2023.3262020
+
+Muhammad, I. Z., & Zhu, Y. (2015). SUPERVISED MACHINE LEARNING APPROACHES: a SURVEY. ICTACT Journal on Soft Computing, 05(03), 946–952. https://doi.org/10.21917/ijsc.2015.0133
+
+Najadat, H., Altiti, O., Aqouleh, A. A., & Younes, M. (2020). Credit Card Fraud Detection Based on Machine and Deep Learning. 2020 11th International Conference on Information and Communication Systems (ICICS). https://doi.org/10.1109/icics49469.2020.239524
+
+Park, M., Jung, D., Lee, S., & Park, S. (2020). Heatwave damage prediction using random forest model in Korea. Applied Sciences, 10(22), 8237. https://doi.org/10.3390/app10228237
+
+Pavlidis, G. (2023). Deploying artificial intelligence for anti-money laundering and asset recovery: the dawn of a new era. Journal of Money Laundering Control, 26(7), 155–166. https://doi.org/10.1108/jmlc-03-2023-0050
+
+Prusti, D., Kumar, A., Purusottam, I. S., & Rath, S. K. (2021). A design methodology for web-based services to detect fraudulent transactions in credit card. ISEC 2021: 14th Innovations in Software Engineering Conference (Formerly Known as India Software Engineering Conference)February 2021Article No.: 14Pages 1–9. https://doi.org/10.1145/3452383.3452397
+
+Quah, J. T., & Sriganesh, M. (2008). Real-time credit card fraud detection using computational intelligence. Expert Systems With Applications, 35(4), 1721–1732. https://doi.org/10.1016/j.eswa.2007.08.093
+
+Ratan, P. (2023, November 6). What is the Convolutional Neural Network Architecture? Analytics Vidhya. https://www.analyticsvidhya.com/blog/2020/10/what-is-the-convolutional-neural-network-architecture/
+
+Roy, A., Sun, J., Mahoney, R., Alonzi, L. P., Adams, S., & Beling, P. A. (2018). Deep learning detecting fraud in credit card transactions. 2018 Systems and Information Engineering Design Symposium (SIEDS). https://doi.org/10.1109/sieds.2018.8374722
+
+Sailusha, R., Gnaneswar, V., Ramesh, R., & Rao, G. R. (2020). Credit Card Fraud Detection Using Machine Learning. 2020 4th International Conference on Intelligent Computing and Control Systems (ICICCS). https://doi.org/10.1109/iciccs48265.2020.9121114
+
+Shah, D., & Sharma, L. K. (2023). Credit Card Fraud Detection using Decision Tree and Random Forest. ITM Web of Conferences, 53, 02012. https://doi.org/10.1051/itmconf/20235302012
+
+Shekhar, S., Leder-Luis, J., & Akoglu, L. (2022). Unsupervised machine learning for explainable health care fraud detection. arXiv (Cornell University). https://doi.org/10.48550/arxiv.2211.02927
+
+Singh, A., Ranjan, R. K., & Tiwari, A. (2021). Credit Card Fraud Detection under Extreme Imbalanced Data: A Comparative Study of Data-level Algorithms. Journal of Experimental and Theoretical Artificial Intelligence, 34(4), 571–598. https://doi.org/10.1080/0952813x.2021.1907795
+
+Sohony, I., Pratap, R., & Nambiar, U. (2018). Ensemble learning for credit card fraud detection. CODS-COMAD ’18: Proceedings of the ACM India Joint International Conference on Data Science and Management of DataJanuary 2018Pages 289–294. https://doi.org/10.1145/3152494.3156815
+
+Strelcenia, E., & Prakoonwit, S. (2023). A survey on GAN Techniques for data augmentation to address the imbalanced data issues in credit card fraud detection. Machine Learning and Knowledge Extraction, 5(1), 304–329. https://doi.org/10.3390/make5010019
+
+Tayebi, M., & Kafhali, S. E. (2021). Hyperparameter optimization using genetic algorithms to detect frauds transactions. In Springer eBooks (pp. 288–297). https://doi.org/10.1007/978-3-030-76346-6_27
+
+Tayebi, M., & Kafhali, S. E. (2022). Performance analysis of metaheuristics based hyperparameters optimization for fraud transactions detection. Evolutionary Intelligence. https://doi.org/10.1007/s12065-022-00764-5
+
+The flowchart of the Adaboost algorithm. (n.d.). ResearchGate. https://www.researchgate.net/figure/The-flowchart-of-the-Adaboost-algorithm_fig3_352781421
+
+Thennakoon, A., Bhagyani, C., Premadasa, S., Mihiranga, S., & Kuruwitaarachchi, N. (2019). Real-time Credit Card Fraud Detection Using Machine Learning. 2019 9th International Conference on Cloud Computing, Data Science & Engineering (Confluence). https://doi.org/10.1109/confluence.2019.8776942
+
+Tran, P. T. M., Tran, K. P., Hương, T. T., Heuchenne, C., HienTran, P., & Le, T. M. H. (2018). Real Time Data-Driven Approaches for Credit Card Fraud Detection. ICEBA 2018: Proceedings of the 2018 International Conference on E-Business and ApplicationsFebruary 2018Pages 6–9. https://doi.org/10.1145/3194188.3194196
+
+Varmedja, D., Karanovic, M., Sladojević, S., Arsenović, M., & Anderla, A. (2019). Credit Card Fraud Detection - Machine Learning methods. 18th International Symposium INFOTEH-JAHORINA, 20-22 March 2019. https://doi.org/10.1109/infoteh.2019.8717766
+
+Zaffar, Z., Sohrab, F., Kanniainen, J., & Gabbouj, M. (2023). Credit Card Fraud Detection with Subspace Learning-based One-Class   Classification. arXiv (Cornell University). https://doi.org/10.48550/arxiv.2309.14880
+
+Zhang, X., Han, Y., Xu, W., & Wang, Q. (2021). HOBA: A novel feature engineering methodology for credit card fraud detection with a deep learning architecture. Information Sciences, 557, 302–316. https://doi.org/10.1016/j.ins.2019.05.023
 
 ## Key words: 
 -Credit card fraud detection
